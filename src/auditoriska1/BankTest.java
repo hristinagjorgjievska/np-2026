@@ -1,3 +1,5 @@
+package auditoriska1;
+
 abstract class Account{
     private String holderName;
     private int accountNumber;
@@ -10,7 +12,7 @@ abstract class Account{
     }
 
     //getBalance() е public за да може контролирано да се чита состојбата од надвор
-    //(пример од Bank), а balance е private за да не може никој да ја менува директно
+    //(пример од auditoriska1.Bank), а balance е private за да не може никој да ја менува директно
     //и неконтролирано, секоја промена мора да помине низ addMoney / withdrawMoney
 
     public double getBalance(){
