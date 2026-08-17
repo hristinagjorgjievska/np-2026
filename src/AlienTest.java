@@ -1,3 +1,4 @@
+//TASK: REFACTORE THE CODE
 class Alien {
 //    public static final int SNAKE_ALIEN = 0;
 //    public static final int OGRE_ALIEN = 1;
