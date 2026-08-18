@@ -47,13 +47,13 @@ public class simpleExercise{
 
 //PRIMERI:
 //1. Function
-Function<String, Integer> length = s -> s.length();
+//Function<String, Integer> length = s -> s.length();
 
 //2. Predicate
-Predicate<Integer> isEven = n -> n % 2 == 0;
+//Predicate<Integer> isEven = n -> n % 2 == 0;
 
 //3. Consumer
-Consumer<String> print = s -> System.out.println(s);
+//Consumer<String> print = s -> System.out.println(s);
 
 //4. Supplier
-Supplier<Long> time = () -> System.currentTimeMillis();
+//Supplier<Long> time = () -> System.currentTimeMillis();

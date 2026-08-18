@@ -1,4 +1,4 @@
-package auditoriska1;
+package auditoriski.auditoriska1;
 
 class Alien {
 //    public static final int SNAKE_ALIEN = 0;
@@ -72,11 +72,11 @@ class AlienPack {
 //    public int calculateDamage() {
 //        int damage = 0;
 //        for (int i = 0; i < aliens.length; i++) {
-//            if (aliens[i].type == auditoriska1.Alien.SNAKE_ALIEN) {
+//            if (aliens[i].type == auditoriski.auditoriska1.Alien.SNAKE_ALIEN) {
 //                damage += 10;// Snake does 10 damage
-//            } else if (aliens[i].type == auditoriska1.Alien.OGRE_ALIEN) {
+//            } else if (aliens[i].type == auditoriski.auditoriska1.Alien.OGRE_ALIEN) {
 //                damage += 6;// Ogre does 6 damage
-//            } else if (aliens[i].type == auditoriska1.Alien.MARSHMALLOW_MAN_ALIEN) {
+//            } else if (aliens[i].type == auditoriski.auditoriska1.Alien.MARSHMALLOW_MAN_ALIEN) {
 //                damage += 1;
 //                // Marshmallow Man does 1 damage
 //            }
