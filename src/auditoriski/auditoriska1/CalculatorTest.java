@@ -1,4 +1,4 @@
-package auditoriska1;
+package auditoriski.auditoriska1;
 
 import java.util.Scanner;
 
