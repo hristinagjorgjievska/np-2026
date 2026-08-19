@@ -1,4 +1,4 @@
-package laboratoriska1;
+package laboratoriski.laboratoriska1;
 
 import java.util.ArrayList;
 import java.util.List;

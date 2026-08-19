@@ -1,4 +1,4 @@
-package laboratoriska1;
+package laboratoriski.laboratoriska1;
 
 import java.util.*;
 import java.util.stream.Collectors;

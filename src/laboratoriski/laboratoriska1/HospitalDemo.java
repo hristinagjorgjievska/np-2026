@@ -1,7 +1,5 @@
-package laboratoriska1;
+package laboratoriski.laboratoriska1;
 
-import javax.print.Doc;
-import java.util.Comparator;
 import java.util.Scanner;
 import java.util.function.Predicate;
 import java.util.function.Function;
